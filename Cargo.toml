@@ -16,7 +16,7 @@ categories = ["visualization"]
 name = "room_visual_ext"
 
 [dependencies]
-screeps-game-api = "0.10"
+screeps-game-api = "*"
 
 [profile.release]
 panic = "abort"
